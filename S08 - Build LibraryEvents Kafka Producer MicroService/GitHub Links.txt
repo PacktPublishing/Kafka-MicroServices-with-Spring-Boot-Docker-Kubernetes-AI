@@ -1,0 +1,7 @@
+Kafka Template Guide:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/library-events-producer-v2/docs/4_KAFKA_TEMPLATE_GUIDE.md
+
+
+
+Kafka Auto Configuration in Spring Boot - Complete Flow:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/library-events-producer-v2/docs/5_KAFKA_AUTO_CONFIGURATION_EXPLAINED.md

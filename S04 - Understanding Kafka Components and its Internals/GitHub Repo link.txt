@@ -1,0 +1,23 @@
+Verify Kafka is Running:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#verify-kafka-is-running
+
+Consumer Groups:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#consumer-groups
+
+kraft-single-broker-flow.mmd:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/docs/kraft-single-broker-flow.mmd
+
+Commit Log & Retention:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#commit-log--retention
+
+Multi-Broker Demonstrations:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#multi-broker-demonstrations
+
+Demo 2: Leader Election (Failover):
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#demo-2-leader-election-failover
+
+Demo 3: ISR and min.insync.replicas:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#demo-3-isr-and-mininsyncreplicas
+
+Demo 4: Partition Distribution:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/README-kafka.md#demo-4-partition-distribution

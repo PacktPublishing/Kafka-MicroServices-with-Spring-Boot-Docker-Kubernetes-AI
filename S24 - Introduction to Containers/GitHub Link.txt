@@ -1,0 +1,2 @@
+docker-guide.md:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/library-events-producer-v2/docs/docker/docker-guide.md

@@ -1,0 +1,3 @@
+ACTUATOR_HEALTH_ENDPOINTS:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/library-events-producer-v2/docs/11_ACTUATOR_HEALTH_ENDPOINTS.md#overview
+

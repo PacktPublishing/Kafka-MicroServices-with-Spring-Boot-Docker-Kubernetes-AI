@@ -1,0 +1,3 @@
+Kafka Transactions in Spring Kafka:
+https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2/blob/upgrade-springboot-4/library-events-producer-v2/docs/10_KAFKA_TRANSACTIONS.md
+
